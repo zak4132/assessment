@@ -10,7 +10,7 @@ userNameInput.onkeydown = event => {
 };
 
 /**
- * 指定した要素の子供を全て削除する
+ * 指定した要素の子供を,全て削除する
  * @param {HTMLElement} element HTMLの要素
  */
 function removeAllChildren(element) {
